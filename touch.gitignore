@@ -8,9 +8,9 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 */.git/*
-taotao-parent/.deployables
-taotao-parent/.git
-taotao-parent/.project
-taotao-parent/.settings
+.deployables
+.git
+.project
+.settings
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
