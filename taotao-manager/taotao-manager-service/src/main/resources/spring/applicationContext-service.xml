@@ -12,4 +12,4 @@
 	<!-- 配置包扫描器，扫描所有带@Service注解的类 -->
 	<context:component-scan base-package="com.taotao.service"/>
 	
-</beans>
+</beans>  
